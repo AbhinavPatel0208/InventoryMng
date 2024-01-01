@@ -1,4 +1,4 @@
-# MVC DotNET 8
+# MVC DotNET8
 ## SIMPLE FLOW
 
 ![1](https://github.com/AbhinavPatel0208/InventoryMng/assets/71115461/9c93d055-b274-44d3-9884-87a35e0dbe22)
