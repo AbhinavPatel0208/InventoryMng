@@ -1,5 +1,5 @@
 # MVC DotNET8
-## SIMPLE FLOW  (Architecture)
+## SIMPLE FLOW  ( Architecture )
 
 ![1](https://github.com/AbhinavPatel0208/InventoryMng/assets/71115461/9c93d055-b274-44d3-9884-87a35e0dbe22)
 ![2](https://github.com/AbhinavPatel0208/InventoryMng/assets/71115461/34720166-a743-49b4-9c3e-cae88429fb39)
