@@ -4,6 +4,8 @@ namespace InventoryWebApp.Models
 {
     public class Category
     {
+        // TO IMPLEMENT
+        
         public int CategoryId { get; set; }
         [Required]
         public string Name { get; set; } = string.Empty;
